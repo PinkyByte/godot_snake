@@ -1,0 +1,17 @@
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\bin\Debug\Snake.deps.json
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\bin\Debug\Snake.runtimeconfig.json
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\bin\Debug\Snake.dll
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\bin\Debug\Snake.pdb
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.AssemblyInfoInputs.cache
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.AssemblyInfo.cs
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.csproj.Up2Date
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.dll
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\refint\Snake.dll
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.pdb
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\Snake.genruntimeconfig.cache
+C:\Users\csana\Godot_Projects\snake\.godot\mono\temp\obj\Debug\ref\Snake.dll
